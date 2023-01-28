@@ -7,11 +7,12 @@
 
 - 📫 How to reach me **corbyn.little@torontomu.ca**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1dBfDIyL_JyPp9ab3yFg8NsVhXYcYvDcs/edit?usp=sharing&ouid=114534998429625426081&rtpof=true&sd=true](https://docs.google.com/document/d/1dBfDIyL_JyPp9ab3yFg8NsVhXYcYvDcs/edit?usp=sharing&ouid=114534998429625426081&rtpof=true&sd=true)
+
 - ⚡ Fun fact **The longest recorded flight of a chicken is thirteen seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/5pace_ranger_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5pace_ranger_99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aclittle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aclittle" height="30" width="40" /></a>
 </p>
 
