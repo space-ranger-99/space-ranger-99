@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Little</h1>
-<h3 align="center">A MATLAB and Python developer from Canada</h3>
+<h3 align="center">A Master's student from Canada</h3>
 
-- 🔭 I’m currently working on [Celestial Circles](https://github.com/space-ranger-99/celestial-circles)
+- 🔭 I’m currently working on [PowerSat](https://github.com/space-ranger-99/PowerSat)
 
 - 🌱 I’m currently learning **Aerospace Engineering at Toronto Metropolitan University**
 
