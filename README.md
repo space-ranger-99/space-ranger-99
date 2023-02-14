@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **corbyn.little@torontomu.ca**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dBfDIyL_JyPp9ab3yFg8NsVhXYcYvDcs](https://docs.google.com/document/d/1dBfDIyL_JyPp9ab3yFg8NsVhXYcYvDcs)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1dBfDIyL_JyPp9ab3yFg8NsVhXYcYvDcs)
 
 - ⚡ Fun fact **The longest recorded flight of a chicken is thirteen seconds**
 
