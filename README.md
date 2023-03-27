@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Little</h1>
 <h3 align="center">I'm a Master's candidate in the Aerospace Engineering program at Toronto Metropolitan University</h3>
 
-- 🔭 I’m currently working on [PowerSat](https://github.com/space-ranger-99/PowerSat)
-
 - 🌱 I’m currently learning **Computational Dynamics** and **Spacecraft Dynamics and Control**
 
 - 👨‍💻 All of my projects are available at [https://github.com/space-ranger-99?tab=repositories](https://github.com/space-ranger-99?tab=repositories)
