@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Little</h1>
-<h3 align="center">A Master's candidate in the Aerospace Engineering program at Toronto Metropolitan University</h3>
+<h3 align="center">I'm a Master's candidate in the Aerospace Engineering program at Toronto Metropolitan University</h3>
 
 - 🔭 I’m currently working on [PowerSat](https://github.com/space-ranger-99/PowerSat)
 
